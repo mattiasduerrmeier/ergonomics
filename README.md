@@ -19,10 +19,20 @@ This repository wants to to make it as simple as possible for you to properly ad
 - membrane keyboard
 - mechanical keyboard
 - ergonomic keyboard
-
+### Size
+They are a different size of keyboards avalaible.
+- Full sized keyboard
+- Tenkeyless (TKL) keyboard
+- Compact keyboard
+### low profile keyboard
+Some of the keyboards mentionned before are avalaible as low profile keyboard as well. You can find decent 
 ## Membrane keyboard
 ## Mechanical keyboard
 ## Ergonomic Keyboard
+## Wrist rest
+## Typing
+It is advised to learn how to properly touch type
+## Layouts 
 
 # Mouse
 
