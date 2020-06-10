@@ -6,8 +6,27 @@ If you are on GitHub, chances are you are reading this from a desk.
 But do you know how to adjust it correctly? 
 
 Ergonomics do matter. Poor ergonomics can lead to ackpain, carpal tunnel syndromes and many other health issues.
+This repository wants to to make it as simple as possible for you to properly adjust your chair, desk, monitor and keyboard.
 
-This repository wants to to make as simple as possible to adjust your chair, desk, monitor and keyboard to make as simple as possible.
+# Desk
+## Standing desk
+# Chair
+# Monitor
+
+
+# Keyboards
+## Different keyboard
+- membrane keyboard
+- mechanical keyboard
+- ergonomic keyboard
+
+## Membrane keyboard
+## Mechanical keyboard
+## Ergonomic Keyboard
+
+# Mouse
+
+# Others
 
 # license
 
